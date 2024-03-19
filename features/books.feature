@@ -19,11 +19,10 @@ Feature: Books capability
       | query                               |
       | Learning JavaScript Design Patterns |
       | Addy Osmani                         |
-#      | Git                                 |
-#      | Richard                             |
 
   @test
   Scenario: I validate that clear search is working
     When books: I search after "test"
     When books: I clear search input
     Then books: I validate that 8 books are displayed
+
