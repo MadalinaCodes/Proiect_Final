@@ -13,3 +13,5 @@ Structura proiectului?
 		Și alta care se apelează după fiecare test
 	În -cmd- avem ordinea comenzilor din Terminal
 	-behave.ini- fișier simplu pentru interpretarea testelor în rapoarte html
+
+ Pentru rularea lui este nevoie să urmăm comenzile din fișierul cmd.
