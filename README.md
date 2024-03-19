@@ -1,3 +1,6 @@
+Proiect Testare Automată
+
+
 Structura proiectului? 
 
 	În  features sunt scenariile de test
